@@ -1,4 +1,4 @@
-00:37:28
+00:48:00
 
 
 
@@ -12,6 +12,8 @@ Basalganglien
 Die Komponenten der Basalganglien aufzählen
 \item
 Go- und No Go-Wege der Basalganglien erklären
+\item
+Für Bewegungen releavante Areale des Motorkortex benennen und beschreiben
 \end{itemize}
 
 
@@ -22,7 +24,7 @@ Klinik:
     \item 
 
 Morbus Parkinson  auf der Ebene der Funktion der Basalganglien erklären
-
+\item
 Morbus Huntington  auf der Ebene der Funktion der Basalganglien erklären
 
 \end{itemize}
