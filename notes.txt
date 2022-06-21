@@ -15,6 +15,14 @@ Die Komponenten der Basalganglien aufzählen
 Go- und No Go-Wege der Basalganglien erklären
 \item
 Für Bewegungen releavante Areale des Motorkortex benennen und beschreiben
+\item 
+Die Rollen des motorishen Hirnstamms benennen
+\item
+Deszendierende und Aszendierende Bahnen des Motorsystems erläutern
+\item
+Transkortikale Reflexe erklären
+\item
+Anhand eines Beispiels erläutern, wie motorische Strukturen zusammenwirken
 \end{itemize}
 
 
@@ -27,7 +35,8 @@ Klinik:
 Morbus Parkinson  auf der Ebene der Funktion der Basalganglien erklären
 \item
 Morbus Huntington  auf der Ebene der Funktion der Basalganglien erklären
-
+\item
+Symptome bei Schädigung deszendierender Bahnen benennen
 \end{itemize}
 
 
